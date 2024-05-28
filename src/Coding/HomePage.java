@@ -10,7 +10,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Hadi
+ * @author Anuhya
  */
 public class HomePage extends javax.swing.JFrame {
 
@@ -101,7 +101,7 @@ public class HomePage extends javax.swing.JFrame {
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel3.setText("Programmed By Hadi Khedri");
+        jLabel3.setText("Programmed By Papareddy Anuhya");
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
